@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  yolov5:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-08T11:29:55.471204878Z"
+    description: A Helm chart for Kubernetes
+    digest: 23f3acc550a734b9e219b815f60451938cc0742c60d2840d4517645c8550ca42
+    name: yolov5
+    type: application
+    urls:
+    - yolov5-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-08T11:29:55.470558527Z"
